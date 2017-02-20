@@ -34,6 +34,10 @@ Reference links for Clouds and Containers session material
 * [Docker Machine, Swarm, and Compose post](https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/#more-4494)
 * [Container Orchestration Tools: Compare Kubernetes vs Mesos](https://platform9.com/blog/compare-kubernetes-vs-mesos/)
 
+## Associated repositories
+
+* [Scripts used for demos](https://github.com/mkheck/CloudsAndContainersDemoScripts)
+
 ## Notes
 
 * This repo will be updated periodically. Please watch the repo to be notified of changes.
